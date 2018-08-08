@@ -5,8 +5,8 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/concat',
 #mod 'puppetlabs/inifile',
 #mod 'puppetlabs/stdlib',
-mod 'puppetlabs/java',
-mod 'puppetlabs-apache',
+#mod 'puppetlabs/java',
+#mod 'puppetlabs-apache',
 
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',

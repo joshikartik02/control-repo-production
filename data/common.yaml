@@ -1,6 +1,0 @@
----
-kartik: "kartik joshi"
-
-profile::ntp::ntp_servers:
-- abc.testserver.com
-- xyz.testserver.com

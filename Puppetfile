@@ -27,7 +27,3 @@ mod 'profile',
    :branch => 'master'
 mod 'role',
    :git    => 'https://github.com/joshikartik02/puppet-204-role.git',
-#mod 'apache',
-   #:git    => 'https://github.com/joshikartik02/puppet-204-apache.git',
-   #:branch => 'master'
-

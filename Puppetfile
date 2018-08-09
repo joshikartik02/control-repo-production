@@ -8,32 +8,22 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/java',
 #mod 'puppetlabs-apache',
 
-#mod 'apache',
-#  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
-#  :branch => 'docs_experiment'
 
 mod 'ntp',
-   :git    => 'https://github.com/joshikartik02/puppet_codes.git',
+   :git    => 'https://github.com/joshikartik02/puppet-204-ntp.git',
    :branch => 'master'
-
 mod 'ntp_final',
-   :git    => 'https://github.com/joshikartik02/puppet_codes.git',
+   :git    => 'https://github.com/joshikartik02/puppet-204-ntp_final.git',
    :branch => 'master'
-
 mod 'ssh',
-   :git    => 'https://github.com/joshikartik02/puppet_codes.git',
+   :git    => 'https://github.com/joshikartik02/puppet-204-ssh.git',
    :branch => 'master'
-
 mod 'telnet',
-   :git    => 'https://github.com/joshikartik02/puppet_codes.git',
+   :git    => 'https://github.com/joshikartik02/puppet-204-telnet.git',
    :branch => 'master'
-
 mod 'profile',
-   :git    => 'https://github.com/joshikartik02/puppet_codes.git',
+   :git    => 'https://github.com/joshikartik02/puppet-204-profile.git',
    :branch => 'master'
-
 mod 'role',
-   :git    => 'https://github.com/joshikartik02/puppet_codes.git',
+   :git    => 'https://github.com/joshikartik02/puppet-204-role.git',
    :branch => 'master'
-
-
